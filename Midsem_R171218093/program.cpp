@@ -23,6 +23,18 @@ class MidSem
 		return (x-y);               //creation of function int subtract(commit 3)
 	}
 
+	int multiply()
+	{
+		return (x*y);              // creation of function int multiply (commit 3)
+	}
+
+	int quotient()
+	{
+		return (x/y);              // creation of function int quotient (commit 3)
+	}
+
+
+
 
 };
 int main()
@@ -31,5 +43,7 @@ int main()
 
 	cout<<obj.add()<<endl;
 	cout<<obj.subtract()<<endl;        //commit 2
+	cout<<obj.multiply()<<endl;
+	cout<<obj.quotient()<<endl;              // commit 3
 	return 0;
 }
