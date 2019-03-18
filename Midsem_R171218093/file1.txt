@@ -1,1 +1,3 @@
-file1
+file1.txt
+changes done for commit 2
+
