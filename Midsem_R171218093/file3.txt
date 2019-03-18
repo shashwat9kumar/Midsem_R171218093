@@ -1,2 +1,5 @@
 file3.txt
+changes done for commit 3
+changes done for commit 4
+changing after commit 4
 
