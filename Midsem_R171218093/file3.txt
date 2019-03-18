@@ -1,5 +1,8 @@
 file3.txt
 changes done for commit 3
 changes done for commit 4
+<<<<<<< HEAD
 changing after commit 4
+=======
+>>>>>>> c077150b5ca4cd29ff8af9e6711e1caa361f2387
 
