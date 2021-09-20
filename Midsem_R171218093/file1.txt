@@ -1,5 +1,0 @@
-file1.txt
-changes done for commit 2
-changes done for commit 3
-changes done for commit 4
-
